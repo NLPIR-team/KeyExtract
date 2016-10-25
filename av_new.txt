@@ -1,8 +1,0 @@
-)
- Sentence Information:
-No:1	line白露知秋9月7日，二十四节气中的白露，在江西省靖安县，蜘蛛网上的露珠凝结秋意。
-weight=0.00
-wordid_list_size=0()
-No:2	line新华社发（徐仲庭摄）
-weight=0.00
-wordid_list_size=0()
